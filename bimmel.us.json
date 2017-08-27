@@ -12,5 +12,11 @@
 		{
 			"menuLinkText": "4"
 		}
+	],
+	"menuLinkText": [
+		"LinkText",
+		"LinkText",
+		"LinkText",
+		"LinkText"
 	]
 }
